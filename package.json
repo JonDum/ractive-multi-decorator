@@ -1,0 +1,22 @@
+{
+  "name": "ractive-multi-decorator",
+  "version": "0.1.0",
+  "description": "Ractive decorator to allow multiple decorators on a single element",
+  "main": "multi-decorator.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JonDum/ractive-multi-decorator"
+  },
+  "keywords": [
+    "ractive",
+    "ractivejs",
+    "decorator",
+    "ractive-decorator"
+  ],
+  "author": "Jonathan Dumaine <jonathan.dumaine@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonDum/ractive-multi-decorator/issues"
+  },
+  "homepage": "https://github.com/JonDum/ractive-multi-decorator"
+}
