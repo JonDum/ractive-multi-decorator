@@ -39,8 +39,6 @@ Then use it like so:
 
 If you do not use a module system, ractive-multi-decorator expects `Ractive` to be a global and auto-adds itself to all ractive instances.
 
-```
-
 
 
 
