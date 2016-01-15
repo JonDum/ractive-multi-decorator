@@ -1,6 +1,6 @@
 {
   "name": "ractive-multi-decorator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Ractive decorator to allow multiple decorators on a single element",
   "main": "multi-decorator.js",
   "repository": {
