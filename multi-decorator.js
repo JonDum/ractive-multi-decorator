@@ -7,7 +7,7 @@
 
     'use strict';
 
-    var multi = function(node, args) {
+    function multi (node, args) {
         var decorators = {};
 
         Object.keys(args).forEach(function(name) {
@@ -38,7 +38,7 @@
     // since ractive will call the multi.update for any update on any of the decorator's arguments,
     // we want to avoid calling update on the decorators that don't need to be updated,
     // so we compare their last arguments with the new ones, so if they weren't updated, the decorator.update() won't be called
-    var equalObjects = function () {
+    function equalObjects () {
         var args = Array.prototype.slice.call(arguments, 0);
         var result;
 
