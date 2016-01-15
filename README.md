@@ -1,7 +1,7 @@
 
 #ractive-multi-decorator
 
-Credits go to [akhoury](http://github.com/akhoury) at [ramp](http://ramp.com) and [martypdx](http://github.com/martypdx) for the idea and implementation.
+Credits go to [akhoury](http://github.com/akhoury) at [ramp](http://ramp.com) and [martypdx](http://github.com/martypdx) for the idea and implementation. (original thread [ractive/issues#399](https://github.com/ractivejs/ractive/issues/399))
 
 ### Install
 
