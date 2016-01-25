@@ -1,6 +1,12 @@
 /*
   usage:
-    <element decorator="multi:{ localdecorator: [ {{ dynamicArg1 }}, arg2, arg3 ], globaldecorator: {{singleArg}}, anotherdecorator: true } " >
+    
+    <div decorator="multi:{ 
+                                localdecorator: [ {{ dynamicArg1 }}, arg2, arg3 ], 
+                                globaldecorator: {{ singleArg }}, 
+                                anotherdecorator: true 
+                        }">
+    </div>                    
 */
 
 (function() {
